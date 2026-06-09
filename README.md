@@ -16,3 +16,5 @@ Collection of reusable VSIX packages.
 	Microsoft SQL extension for connecting to SQL Server and Azure SQL, running queries, and viewing results.
 - [markmap.vsix](markmap.vsix)
 	Markmap plugin for turning Markdown content into interactive mind maps.
+- [vscode-animation](vscode-animations.vsix)
+	vscode animation
