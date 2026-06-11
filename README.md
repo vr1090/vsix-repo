@@ -18,3 +18,7 @@ Collection of reusable VSIX packages.
 	Markmap plugin for turning Markdown content into interactive mind maps.
 - [vscode-animation](vscode-animations.vsix)
 	vscode animation
+- [c# extension vs code](csharp.vsix) C# extension vs code
+
+- [c# dev kit ](csdevkit.vsix)
+	C# dev kit
